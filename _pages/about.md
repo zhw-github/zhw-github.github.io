@@ -9,3 +9,4 @@ redirect_from:
 
 
 Hello there, welcome to my page!
+this is my new work [rapid-mapping](../_publications/Rapid-mapping)
