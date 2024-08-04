@@ -20,6 +20,11 @@ I am a master's candidate in [Robotics, Automation, Perception & Decision Labora
 
 Prior to that, I received my bachelor's degree from Northeast Agricultural University (2018-2022), majoring in agricultural mechanization and automation (Honors class). During my undergraduate study, I joined the electromechanical Laboratory led by Prof. [Longzhe Quan](https://jsxx.ahau.edu.cn/ch/jsxx_show.html?zgh=2021156)(权龙哲) and served as the leader of the artificial Intelligence Group, where I worked on weeding robots and identification of seedlings and grasses.
 
+<span style="color: red;">NOTE:I am looking for a PHD position. If you are interested in me, please contact me directly.</span>
+
+
+If you have any questions or would like to cooperate with me, please feel free to contact me at [zhanghw66@mail2.sysu.edu.cn](zhanghw66@mail2.sysu.edu.cn) or WeChat:A07180429.
+
 Research Interests
 ======
 My research interests primarily focus on **enabling robots to autonomously and in real-time construct highly accurate, high-fidelity, and highly complete maps**. Specifically, this includes the following areas:
