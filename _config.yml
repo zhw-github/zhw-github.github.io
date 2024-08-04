@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hanwen Zhang's HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Hanwen ZHANG (张瀚文)"
+description              : &description "M.Eng student in SYSU RAPID Lab"
 url                      : https://zhw-github.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhw-github/zhw-github.github.io"
@@ -22,9 +22,9 @@ repository               : "zhw-github/zhw-github.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hanwen Zhang"
+  name             : "Hanwen ZHANG (张瀚文)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.Eng student in SYSU RAPID Lab"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
