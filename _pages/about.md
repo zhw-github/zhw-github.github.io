@@ -10,6 +10,6 @@ redirect_from:
 
 
 Hello, my name is
-Hanwen Zhang(张瀚文)
+<span style="font-size: 1.5em;">Hanwen Zhang(张瀚文)</span>
 Hello there, welcome to my page!
 this is my new work [rapid-mapping?](../_publications/2009-10-01-paper-title-number-1.md)
