@@ -13,7 +13,7 @@ redirect_from:
 <p>
 Hello, my name is
 </p>
-<p style="font-size: 1.5em; margin-top: -20px; margin-bottom: 5px;">
+<p style="font-size: 1.2em; margin-top: -20px; margin-bottom: 5px;">
 Hanwen Zhang(张瀚文)
 </p>
 <!-- <span style="font-size: 1.5em;">Hanwen Zhang(张瀚文)</span> -->
