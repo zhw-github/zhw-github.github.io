@@ -26,7 +26,7 @@ My research interests primarily focus on **enabling robots to autonomously and i
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-    <li> <p style="font-size: 1.2em;">Mapping/Reconstruction</p></li>
+    <li><p>style="font-size: 1.2em;">Mapping/Reconstruction</p></li>
     </td>
     <td><li> SLAM </li></td>
     <td><li> Implicit Representation </li></td>
