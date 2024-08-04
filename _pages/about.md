@@ -22,6 +22,25 @@ Prior to that, I received my bachelor's degree from Northeast Agricultural Unive
 
 Research Interests
 ======
+My research interests primarily focus on enabling robots to autonomously and in real-time construct highly accurate, high-fidelity, and highly complete maps. Specifically, this includes the following areas:
+<table>
+  <tr>
+    <td><li> Mapping/Reconstruction</li></td>
+    <td><li> SLAM </li></td>
+    <td><li> Implicit Representation </li></td>
+  </tr>
+  <tr>
+    <td><li> Machine Learning</li></td>
+    <td><li> Multi-Sensor Fusion</li></td>
+    <td><li> 3D Gaussion Splatting</li></td>
+  </tr>
+   <tr>
+    <td><li> State Estimation </li></td>
+    <td><li> UAV </li></td>
+    <td><li> Active Mapping</li></td>
+  </tr>
+</table>
+
 
 Education
 ======
