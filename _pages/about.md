@@ -28,5 +28,12 @@ My research interests primarily focus on **enabling robots to autonomously and i
 * UAV Active Mapping
 * Implicit Representation 
 * 3D Gaussion Splatting
+
 Education
 ======
+* Ph.D. The Hong Kong University of Science and Technology, 2022 - Present
+  * Department of Electronic and Computer Engineering, Supervisor: Prof. [Shaojie SHEN]
+
+* B.S. Zhejiang University, 2018 - 2022
+  * Major: Automation, College of Control Science and Engineering
+  * Minor: Intensive Training Program of Innovation and Entrepreneurship (ITP), Chu Kochen Honors College
