@@ -25,8 +25,8 @@ Research Interests
 My research interests primarily focus on **enabling robots to autonomously and in real-time construct highly accurate, high-fidelity, and highly complete maps**. Specifically, this includes the following areas:
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
-    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-    <li> Mapping/Reconstruction</li>
+    <td style="vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+    <li> <p style="font-size: 1.2em;">Mapping/Reconstruction</p></li>
     </td>
     <td><li> SLAM </li></td>
     <td><li> Implicit Representation </li></td>
