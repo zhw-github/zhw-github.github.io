@@ -23,20 +23,7 @@ Prior to that, I received my bachelor's degree from Northeast Agricultural Unive
 Research Interests
 ======
 My research interests primarily focus on enabling robots to autonomously and in real-time construct highly accurate, high-fidelity, and highly complete maps. Specifically, this includes the following areas:
-<style>
-  table, th, td, tr {
-    border: none;
-    border-collapse: collapse;
-  }
-  td {
-    padding: 8px;
-  }
-  li {
-    list-style: disc;
-    margin-left: 20px; /* Adjust as needed */
-  }
-</style>
-<table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td><li> Mapping/Reconstruction</li></td>
     <td><li> SLAM </li></td>
