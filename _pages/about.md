@@ -42,3 +42,10 @@ Education
 * B.Eng. Northeast Agricultural University, 2018 - 2022
   * Major: Agricultural Mechanization and Automation, College of Engineering
   * Minor: Top talent training class, Honors Class
+
+Selected Honors
+======
+* **2023 IEEE Robotics and Automation Letters Best Paper Award**, 2024, IEEE
+* **The First Prize in the 13th China University Computer Design Competition**, 2020, The National Competition Committee of China
+* **The Third Prize in the 16th "Challenge Cup" National College Student Extracurricular Academic Science and Technology Works Competition**, 2019, Ministry of Education of P.R. China
+* **Second Prize in the First National College Student Intelligent Electromechanical Systems Innovation Design Competition**, 2019, Chinese Society of Automation and Artificial Intelligence 
