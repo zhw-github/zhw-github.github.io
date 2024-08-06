@@ -18,13 +18,13 @@ author_profile: true
                 <strong>Hanwen Zhang</strong>, Yujie Zou, Zhewen Yan, Hui Cheng
               <br>
               <em>IEEE Robotics and Automation Letters, 2024. </em><br>
-              <em>
+              <!-- <em>
               {% include base_path %}
               {% for post in site.publications reversed %}
-              {% include archive-new.html %}
+                {% include archive-new.html %}
               {% endfor %}
               </em>
-              <br>
+              <br> -->
             </td>
           </tr>
     </table>
@@ -88,7 +88,12 @@ author_profile: true
     </table> -->
 </html>
 
+{% include base_path %}
 
+
+{% for post in site.publications %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
