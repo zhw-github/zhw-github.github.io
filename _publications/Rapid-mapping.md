@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 4"
 collection: publications
-permalink: /publication/Rapid-mapping
+permalink: /publication/rapid-mapping
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
