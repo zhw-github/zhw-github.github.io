@@ -15,8 +15,9 @@ author_profile: true
                 <papertitle>H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation
                 </papertitle>
               <br>
-                <strong>Chenxing JIANG</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
+                Chenxing JIANG, <strong>Hanwen Zhang</strong>, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
               <br>
+              <em>aaa</em><br>
               <em>IEEE Robotics and Automation Letters, 2023. <strong><font color="red">(Best Paper Award)</font></strong> </em><br>
               <a href="https://ieeexplore.ieee.org/document/10243098"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
               <a href="https://arxiv.org/abs/2306.03207"><img src="https://img.shields.io/badge/ArXiv-2306.03207-da282a.svg"/></a>
@@ -59,4 +60,15 @@ author_profile: true
           </tr>
     </table> -->
 </html>
+
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
