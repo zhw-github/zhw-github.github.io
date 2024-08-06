@@ -8,14 +8,14 @@ author_profile: true
 <html>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/rapidmapping.jpg" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle>Rapid-Mapping: LiDAR-Visual Implicit Neural Representations for Real-Time Dense Mapping
                 </papertitle>
               <br> 
-                Hanwen Zhang, Yujie Zou, Zhewen Yan, Hui Cheng
+                <strong>Hanwen Zhang</strong>, Yujie Zou, Zhewen Yan, Hui Cheng
               <br>
               <em>IEEE Robotics and Automation Letters, 2024. </em><br>
             </td>
