@@ -2,7 +2,7 @@
 title: "Project Website"
 collection: publications
 permalink: /publication/Rapid-mapping
-hidden: true
+# hidden: true
 ---
 
 The paper is awaiting publication...
