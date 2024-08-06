@@ -18,6 +18,13 @@ author_profile: true
                 <strong>Hanwen Zhang</strong>, Yujie Zou, Zhewen Yan, Hui Cheng
               <br>
               <em>IEEE Robotics and Automation Letters, 2024. </em><br>
+              <em>
+              {% include base_path %}
+              {% for post in site.publications reversed %}
+              {% include archive-new.html %}
+              {% endfor %}
+              </em>
+              <br>
             </td>
           </tr>
     </table>
