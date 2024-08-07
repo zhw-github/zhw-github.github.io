@@ -24,7 +24,6 @@ author_profile: true
                 {% if post.identifier == "rapid-mapping" %}
                   {% include archive-new.html %}
                 {% endif %}
-                <!-- {% include archive-new.html %} -->
               {% endfor %}
               </em>
               <br>
