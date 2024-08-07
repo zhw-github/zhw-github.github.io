@@ -21,7 +21,10 @@ author_profile: true
               <em>
               {% include base_path %}
               {% for post in site.publications reversed %}
-                {% include archive-new.html %}
+                {% if post.identifier == "rapid-mapping" %}
+                  {% include archive-new.html %}
+                {% endif %}
+                <!-- {% include archive-new.html %} -->
               {% endfor %}
               </em>
               <br>
