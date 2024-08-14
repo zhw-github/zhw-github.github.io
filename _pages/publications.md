@@ -33,6 +33,33 @@ author_profile: true
 
 </html>
 
+<html>
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/edos.jpg" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>EDOS: Efficient UAV Exploration with Dense-aware Online Scanning Using a LiDAR Sensor
+                </papertitle>
+              <br> 
+                Zhewen Yan, Junlong Huang, Yujie Zou, <strong>Hanwen Zhang</strong>, Hui Cheng
+              <br>
+              <em> Under Review </em><br>
+              <em>
+              {% include base_path %}
+              {% for post in site.publications reversed %}
+                {% if post.identifier == "ecos" %}
+                  {% include archive-new.html %}
+                {% endif %}
+              {% endfor %}
+              </em>
+              <br>
+            </td>
+          </tr>
+    </table>
+
+</html>
 
 <html>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -65,29 +92,6 @@ author_profile: true
             </td>
           </tr>
     </table>
-    <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/dido.png" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>DIDO:Deep Inertial Quadrotor Dynamical Odometry
-                </papertitle>
-              <br>
-                Kunyi Zhang, <strong>Chenxing Jiang</strong>, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao
-              <br>
-              <em>IEEE Robotics and Automation Letters, 2022.</em><br>
-              <a href="https://ieeexplore.ieee.org/document/9817624"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
-              <a href="https://arxiv.org/abs/2203.03149"><img src="https://img.shields.io/badge/ArXiv-2203.03149-da282a.svg"/></a>
-              <a href="https://github.com/zhangkunyi/DIDO">
-              <img alt="Code" src="https://img.shields.io/github/stars/zhangkunyi/DIDO" />
-              </a>
-              <a href="https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0">
-              <img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/>
-              </a>
-            </td>
-          </tr>
-    </table> -->
 </html>
 
 
