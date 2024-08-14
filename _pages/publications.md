@@ -49,7 +49,7 @@ author_profile: true
               <em>
               {% include base_path %}
               {% for post in site.publications reversed %}
-                {% if post.identifier == "ecos" %}
+                {% if post.identifier == "edos" %}
                   {% include archive-new.html %}
                 {% endif %}
               {% endfor %}
