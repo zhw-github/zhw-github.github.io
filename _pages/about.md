@@ -25,7 +25,7 @@ Prior to that, I received my bachelor's degree from Northeast Agricultural Unive
 
 If you have any questions or would like to cooperate with me, please feel free to contact me at [zhanghw66@mail2.sysu.edu.cn](zhanghw66@mail2.sysu.edu.cn) or WeChat:A07180429.
 
-Curriculum Vitae(CV)[Hanwen Zhang's CV](../assets/cv.pdf)
+[Hanwen Zhang's CV](../assets/cv.pdf)
 
 Research Interests
 ======
