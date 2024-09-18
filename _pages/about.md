@@ -25,6 +25,8 @@ Prior to that, I received my bachelor's degree from Northeast Agricultural Unive
 
 If you have any questions or would like to cooperate with me, please feel free to contact me at [zhanghw66@mail2.sysu.edu.cn](zhanghw66@mail2.sysu.edu.cn) or WeChat:A07180429.
 
+Curriculum Vitae(CV)[Hanwen Zhang's CV](../assets/cv.pdf)
+
 Research Interests
 ======
 My research interests primarily focus on **enabling robots to autonomously and in real-time construct highly accurate, high-fidelity, and highly complete maps**. Specifically, this includes the following areas:
