@@ -43,9 +43,9 @@ Education
 * Mphil Student. Sun Yat-sen University, 2022 - Present
   * School of Computer Science and Engineering, Supervisor: Prof. Hui Cheng
 
-* B.Eng. Northeast Agricultural University, 2018 - 2022
+<!-- * B.Eng. Northeast Agricultural University, 2018 - 2022
   * Major: Agricultural Mechanization and Automation, College of Engineering
-  * Minor: Top talent training class, Honors Class
+  * Minor: Top talent training class, Honors Class -->
 
 Selected Honors
 ======
